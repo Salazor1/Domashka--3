@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="page_title">Page Title</string>
+    <string name="Hello">Hello</string>
+    <string name="alarms_destination_label">Settings</string>
+    <string name="Settings">Settings</string>
+    <string name="bye">Bye</string>
+    <string name="hi">Hi</string>
+</resources>
